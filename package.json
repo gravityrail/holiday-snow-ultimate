@@ -12,7 +12,7 @@
   "devDependencies": {
     "aframe-mountain-component": "^0.3.3",
     "uglifyjs-webpack-plugin": "^1.2.3",
-    "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.11"
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
   }
 }
